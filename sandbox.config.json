@@ -2,5 +2,9 @@
   "infiniteLoopProtection": true,
   "hardReloadOnChange": false,
   "view": "browser",
-  "template": "node"
+  "template": "node",
+  "server": "true",
+  "container": {
+    "port": 8080
+  }
 }

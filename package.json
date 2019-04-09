@@ -27,9 +27,6 @@
     "owc-dev-server": "^0.1.2",
     "eslint-plugin-lit": "^0.5.0"
   },
-  "lint-staged": {
-    "*.js": ["eslint --fix", "prettier --write", "git add"]
-  },
   "name": "my-app",
   "license": "MIT",
   "dependencies": {
